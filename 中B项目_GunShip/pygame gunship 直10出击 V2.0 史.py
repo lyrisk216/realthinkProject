@@ -233,6 +233,9 @@ while True:
         elif event.type == pygame.KEYUP:
             fwork.keyup(event.key)
     fwork.play()
+
+# 代码修改测试
+# 测试ABC
     
         
 
